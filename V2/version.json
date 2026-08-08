@@ -1,6 +1,6 @@
 {
   "version": "2.0.2",
-    "enabled": false,
+    "enabled": true,
   "downloadUrl": "https://github.com/ddgg97323-creator/senuupdt/releases/download/V2.0.0/SENU-OPTIMIZER-V2.exe",
   "sha256": "sha256:706b04b43cea7dfe13b2cc9e4e267224456dd1c84a9116606da85b9ff55a0b99",
    "releaseNotes": "SENU OPTIMIZER V2 has been temporarily disabled."
